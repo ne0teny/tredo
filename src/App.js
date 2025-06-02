@@ -234,7 +234,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <FormProvider>
-        <Router>
+        <Router basename="/tredo">
           <Box
             sx={{
               minHeight: '100vh',
