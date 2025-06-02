@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tredo/static/css/main.d70b4df4.css",
+    "main.js": "/tredo/static/js/main.63fed545.js",
+    "static/js/453.733726fd.chunk.js": "/tredo/static/js/453.733726fd.chunk.js",
+    "index.html": "/tredo/index.html",
+    "main.d70b4df4.css.map": "/tredo/static/css/main.d70b4df4.css.map",
+    "main.63fed545.js.map": "/tredo/static/js/main.63fed545.js.map",
+    "453.733726fd.chunk.js.map": "/tredo/static/js/453.733726fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d70b4df4.css",
+    "static/js/main.63fed545.js"
+  ]
+}
